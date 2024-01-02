@@ -1,0 +1,77 @@
+.image-hero{
+    background: #F6F5F4;
+}
+.image-hero span {
+    color: #2B788B;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 2.24px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 24px;
+}
+
+.image-hero h1 {
+    color: #000;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    font-family: 'Dela Gothic One', sans-serif;
+    letter-spacing: -2.24px;
+    margin-bottom: 30px;
+}
+
+.image-hero p {
+    color: #757575;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: -0.72px;
+    margin-bottom: 40px;
+}
+
+
+.hero-image-right img {
+    width: 100%;position: relative; display: block;
+
+}
+
+.image-hero h2 {
+    font-family: 'Dela Gothic One', sans-serif;
+    color: #000;
+    margin-left: 10px;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+    margin-bottom: 5px;
+    letter-spacing: -0.8px;
+}
+
+.image-hero h3 {
+    color: #585858;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: -0.64px;
+}
+
+.image-hero ul li span {
+    margin: 0;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.image-hero ul li {
+    border-right: 1px solid #E0E0E0;
+    padding-right: 48px;
+    margin-right: 48px;
+}
+
+.image-hero ul li:last-child {
+    border: 0;
+}
