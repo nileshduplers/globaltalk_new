@@ -7,13 +7,13 @@ import ImageContent from './components/ImageContent/ImageContent';
 import image1 from '../src/assets/images/playful-way.png';
 import image2 from '../src/assets/images/Textbook.png';
 import image3 from '../src/assets/images/Statistics.png';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
     <>
       <Header />
       <Hero />
-      
       <ImageContent
         customClassName=""
         imageUrl={image1}
@@ -38,6 +38,8 @@ function App() {
         link="Statistics"
          
       />
+
+      <Footer />
 
     </>
   );
