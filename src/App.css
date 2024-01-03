@@ -15,6 +15,15 @@ a {
   letter-spacing: -0.64px;
 }
 
+.btn:hover{
+  background: #2B788B;
+  color: #fff;
+}
+
+.bg-grey{
+  background: #F6F5F4;
+}
+
 @media (min-width: 1440px) {
   .container {
     max-width: 1220px;

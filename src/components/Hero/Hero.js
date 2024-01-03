@@ -6,7 +6,7 @@ import '../Hero/Hero.css';
 
 function Hero() {
     return (
-        <div className='image-hero py-24 '>
+        <div className='image-hero py-24'>
             <div className='container mx-auto'>
             <div className='grid grid-cols-12 gap-4'>
                 <div className='col-span-12 xl:col-span-5'>
